@@ -75,42 +75,42 @@
                android:text="Button8" />
 
            <Button
-               android:id="@+id/button7"
+               android:id="@+id/button9"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
                android:text="Button9" />
 
            <Button
-               android:id="@+id/button7"
+               android:id="@+id/button10"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
                android:text="Button10" />
 
            <Button
-               android:id="@+id/button7"
+               android:id="@+id/button11"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
                android:text="Button11" />
 
            <Button
-               android:id="@+id/button7"
+               android:id="@+id/button12"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
                android:text="Button12" />
 
            <Button
-               android:id="@+id/button7"
+               android:id="@+id/button13"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
                android:text="Button13" />
 
            <Button
-               android:id="@+id/button7"
+               android:id="@+id/button14"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
@@ -126,14 +126,14 @@
 
 
            <Button
-               android:id="@+id/button9"
+               android:id="@+id/second"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
                android:text="Second_Last" />
 
            <Button
-               android:id="@+id/button10"
+               android:id="@+id/last"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
